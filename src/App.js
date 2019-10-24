@@ -9,6 +9,7 @@ function App() {
         <div className="app">
             <header className="app-header">
                 <img src={logo} className="app-logo" alt="logo" />
+                <h4> Higher Order Components</h4>
             </header>
             <main className="app-main">
                 <ClickCounter></ClickCounter>
